@@ -13,36 +13,36 @@
 /* Dpad */
 .custom .dpad{	
     position: absolute;	
-    width: 444px;	
-    height: 300px;	
-    top: 180px;	
-    left: 180px;	
+    width: 330;	
+    height: 210px;
+    left: 36px;
+    top: 30px;	
 }
 .custom .face{
-    width: 132px;
-    height: 144px;
+    width: 90px;
+    height: 90px;
     position: absolute;	
     opacity: 0;
 }
 .custom .face.up{
-    background: url(https://i.imgur.com/xPbKbJf.png);
+    background: url(https://i.imgur.com/0K1oGxG.png);
+    left: 120px;
     top: 0px;
-    left: 156px;
 }
 .custom .face.down{
-    background: url(https://i.imgur.com/yLSKpQD.png);
-    top: 156px;
-    left: 156px;
+    background: url(https://i.imgur.com/uI9mc1v.png);
+    left: 120px;
+    top: 120px;
 }
 .custom .face.left{
-    background: url(https://i.imgur.com/TJ2yOzc.png);
-    top: 156px;
+    background: url(https://i.imgur.com/wsGm6pO.png);
     left: 0px;
+    top: 120px;
 }
 .custom .face.right{
-    background: url(https://i.imgur.com/y8BGeKs.png);
-    top: 156px;
-    left: 312px;
+    background: url(https://i.imgur.com/yNLPXFU.png);
+    left: 240px;
+    top: 120px;
 }
 .custom .face.pressed{
     opacity: 1;
@@ -50,44 +50,44 @@
 
 /* ABXY */
 .custom .button{
-    width: 132px;
-    height: 144px;
+    width: 90px;
+    height: 90px;
     position: absolute;	
     opacity: 0;
 }
 .custom .button.a.pressed{
-    background: url(https://i.imgur.com/0PMmJnh.png);
-    top: 336px;
-    left: 1116px;
+    background: url(https://i.imgur.com/JUANDJ7.png);
+    left: 756px;
+    top: 150px;
     opacity: 1;
 }
 .custom .button.b.pressed{
-    background: url(https://i.imgur.com/wLElbQP.png);
-    top: 336px;
-    left: 1272px;
+    background: url(https://i.imgur.com/AiOI5Ri.png);
+    left: 876px;
+    top: 150px;
     opacity: 1;
 }
 .custom .button.x.pressed{
-    background: url(https://i.imgur.com/ZR8V4fC.png);
-    top: 336px;
-    left: 960px;
+    background: url(https://i.imgur.com/CjZaZBm.png);
+    left: 636px;
+    top: 150px;
     opacity: 1;
 }
 .custom .button.y.pressed{
-    background: url(https://i.imgur.com/UFnsM3z.png);
-    top: 180px;
-    left: 1116px;
+    background: url(https://i.imgur.com/SsFYETV.png);
+    left: 756px;
+    top: 300px;
     opacity: 1;
 }
 
 /* Back & Start */
 .custom .back{ 
     position: absolute;
-    background: url(https://i.imgur.com/VwTQ4En.png);
-    width: 84px;
-    height: 96px;
-    top: 204px;
-    left: 48px;
+    background: url(https://i.imgur.com/I52RODS.png);
+    width: 54px;
+    height: 54px;
+    left: 396px;
+    top: 18px;
     opacity: 0;
 }
 .custom .back.pressed{
@@ -95,11 +95,11 @@
 }
 .custom .start{
     position: absolute;
-    background: url(https://i.imgur.com/CUMjZ24.png);
-    width: 84px;
-    height: 96px;
-    top: 204px;
-    left: 1452px;
+    background: url(https://i.imgur.com/tGfnvfO.png);
+    width: 54px;
+    height: 54px;
+    left: 552px;
+    top: 18px;
     opacity: 0;
 }
 .custom .start.pressed{
@@ -108,34 +108,34 @@
 
 /* Bumpers */
 .custom .bumper{
-    width: 132px;
-    height: 84px;
+    width: 90px;
+    height: 42px;
     opacity: 0;
 }
 .custom .bumpers{
     position: absolute;
-    width: 600px;
-    height: 84px;
-    left: 492px;
-    top: 48px;
+    width: 450px;
+    height: 42px;
+    left: 276px;
+    top: 78px;
 }
 .custom .bumper.pressed{ 
     opacity: 1;
 }
 .custom .bumper.left{
-    background: url(https://i.imgur.com/nlr3UTN.png);
+    background: url(https://i.imgur.com/j9H5moG.png);
     float: left;
 }
 .custom .bumper.right{
-    background: url(https://i.imgur.com/pKurqEQ.png);
+    background: url(https://i.imgur.com/j9H5moG.png);
     float: right;
 }
 
 .custom .triggers{
-    width: 1698px;
-    height: 84px;
-    top: 48px;
-    left: 180px;
+    width: 930px;
+    height: 42px;
+    left: 36px;
+    top: 78px;
     position: absolute;
 } 
 .custom .trigger{
@@ -143,18 +143,18 @@
     opacity: 0;
 }
 .custom .trigger-button.left.pressed{
-    background: url(https://i.imgur.com/bBnGKcx.png);
-    width: 132px;
-    height: 84px;
+    background: url(https://i.imgur.com/j9H5moG.png);
+    width: 90px;
+    height: 42px;
     opacity: 1;
     position: absolute;
 }
 .custom .trigger-button.right.pressed{
-    background: url(https://i.imgur.com/X80L8cX.png);
-    width: 132px;
-    height: 84px;
+    background: url(https://i.imgur.com/j9H5moG.png);
+    width: 90px;
+    height: 42px;
     top: 0px;
-    left: 1092px;
+    left: 840px;
     opacity: 1;
     position: absolute;
 }
@@ -162,34 +162,34 @@
 /*Sticks*/
 .custom .sticks{
     position: absolute;
-    width: 288px;
-    height: 120px;
-    top: 180px;
-    left: 648px;
+    width: 162px;
+    height: 54px;
+    left: 420px;
+    top: 168px;
 }
 .custom .stick{
     position: absolute;
-    width: 108px;
-    height: 120px;
+    width: 54px;
+    height: 54px;
     opacity: 1;
 }
 .custom .stick.pressed.left{
-    background: url(https://i.imgur.com/8zMsOKX.png);
+    background: url(https://i.imgur.com/vsFpXJo.png);
     opacity: 1;
 }
 .custom .stick.pressed.right{
-    background: url(https://i.imgur.com/DmIq3Gi.png);
+    background: url(https://i.imgur.com/vsFpXJo.png);
     opacity: 1;
 }
 .custom .stick.left{
-    background: url(https://i.imgur.com/QV5jCho.png);
+    background: url(https://i.imgur.com/2qli6up.png);
     top: 0;
     left: 0;
 }
 .custom .stick.right{
-    background: url(https://i.imgur.com/j9oMJW5.png);
-    top: calc(100% - 120px);
-    left: calc(100% - 108px);
+    background: url(https://i.imgur.com/2qli6up.png);
+    top: calc(100% - 54px);
+    left: calc(100% - 54px);
 }
 
 /*END*/
