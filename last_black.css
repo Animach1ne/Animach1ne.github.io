@@ -2,12 +2,12 @@
 
 /* Base Attributes */
 .controller.custom{
-    background: url(https://i.imgur.com/Lq0OFfk.png);
+    background: url(https://i.imgur.com/nZAMrSR.png);
     width: 1002px;
     height: 270px;
 }
 .custom.disconnected {
-    background: url(https://i.imgur.com/Lq0OFfk.png);
+    background: url(https://i.imgur.com/nZAMrSR.png);
 }
 
 /* Dpad */
@@ -182,12 +182,12 @@
     opacity: 1;
 }
 .custom .stick.left{
-    background: url(https://i.imgur.com/ph3J0pB.png);
+    background: url(https://i.imgur.com/kZzafcm.png);
     top: 0;
     left: 0;
 }
 .custom .stick.right{
-    background: url(https://i.imgur.com/ph3J0pB.png);
+    background: url(https://i.imgur.com/kZzafcm.png);
     top: calc(100% - 54px);
     left: calc(100% - 54px);
 }
