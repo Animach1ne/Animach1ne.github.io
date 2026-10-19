@@ -83,7 +83,7 @@
 /* Back & Start */
 .custom .back{ 
     position: absolute;
-    background: url(https://i.imgur.com/ceTAWGl.png);
+    background: url(https://i.imgur.com/KRoZ9vK.png);
     width: 54px;
     height: 54px;
     left: 396px;
@@ -95,7 +95,7 @@
 }
 .custom .start{
     position: absolute;
-    background: url(https://i.imgur.com/S3Nrbyd.png);
+    background: url(https://i.imgur.com/KRoZ9vK.png);
     width: 54px;
     height: 54px;
     left: 552px;
@@ -123,11 +123,11 @@
     opacity: 1;
 }
 .custom .bumper.left{
-    background: url(https://i.imgur.com/03PU3tA.png);
+    background: url(https://i.imgur.com/ZWRDNsp.png);
     float: left;
 }
 .custom .bumper.right{
-    background: url(https://i.imgur.com/03PU3tA.png);
+    background: url(https://i.imgur.com/ZWRDNsp.png);
     float: right;
 }
 
@@ -143,14 +143,14 @@
     opacity: 0;
 }
 .custom .trigger-button.left.pressed{
-    background: url(https://i.imgur.com/03PU3tA.png);
+    background: url(https://i.imgur.com/ZWRDNsp.png);
     width: 90px;
     height: 42px;
     opacity: 1;
     position: absolute;
 }
 .custom .trigger-button.right.pressed{
-    background: url(https://i.imgur.com/03PU3tA.png);
+    background: url(https://i.imgur.com/ZWRDNsp.png);
     width: 90px;
     height: 42px;
     top: 0px;
@@ -174,20 +174,20 @@
     opacity: 1;
 }
 .custom .stick.pressed.left{
-    background: url(https://i.imgur.com/ysdpn9g.png);
+    background: url(https://i.imgur.com/oq92YUu.png);
     opacity: 1;
 }
 .custom .stick.pressed.right{
-    background: url(https://i.imgur.com/ysdpn9g.png);
+    background: url(https://i.imgur.com/oq92YUu.png);
     opacity: 1;
 }
 .custom .stick.left{
-    background: url(https://i.imgur.com/XIBEoOS.png);
+    background: url(https://i.imgur.com/ph3J0pB.png);
     top: 0;
     left: 0;
 }
 .custom .stick.right{
-    background: url(https://i.imgur.com/XIBEoOS.png);
+    background: url(https://i.imgur.com/ph3J0pB.png);
     top: calc(100% - 54px);
     left: calc(100% - 54px);
 }
